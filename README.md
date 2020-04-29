@@ -6,14 +6,8 @@ tags: [pandas]
 ---
 
 
-All code is in [my github](https://github.com/byambaa1982/snowflake_data_scrape/blob/master/)
+All code is in [my github](https://github.com/byambaa1982/date_format/main.py)
 
-## Goal
-
-I am asked to scrape and extract data [this website](https://snowflakecommunity.force.com/s/global-search/%40uri#q=snowflake&t=All&sort=relevancy&f:Type=[Answers]) 
-
-
-### Data that we need to scape
 
 index| ID                 |               created_at              |      new_date
 -----| -------------------| --------------------------------------| ----------------|
